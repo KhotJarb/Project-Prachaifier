@@ -1,0 +1,5 @@
+{
+  "name": "Prachaifier",
+  "description": "An F1-themed face swapper app that changes facial features of a target image to resemble a source person.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --color-f1-red: #E10600;
+  --color-f1-dark: #15151E;
+}
+
+body {
+  background-color: var(--color-f1-dark);
+  color: white;
+  font-family: "Outfit", sans-serif;
+}
